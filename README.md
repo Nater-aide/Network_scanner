@@ -7,5 +7,7 @@ Python can be used to build a simple ICMP (Internet Control Message Protocol) sc
 You will need to install scapy before running
 sudo apt install python3-scapy
 
+You will also need to update the ip_range in the code to match your local network
+
 # Usage
 python3 networkscanner.py
